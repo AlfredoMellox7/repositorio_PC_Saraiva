@@ -1,1 +1,1 @@
-# repositorio_PC_Saraiva
+# Repositório criado para a prática e manutenção de arquivos para uma Máquina Virtual no Oracle .
